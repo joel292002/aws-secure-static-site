@@ -1,0 +1,9 @@
+User
+  ↓ 
+  ↓  HTTPS
+  ↓
+CloudFront
+  ↓ 
+  ↓   OAC 
+  ↓
+Private S3 Bucket
